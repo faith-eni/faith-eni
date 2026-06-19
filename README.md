@@ -1,8 +1,8 @@
 # Hi, I'm Faith 👋
 
-I'm an independent ML researcher and engineer based in London. My current work is on **tiny-object detection in aerial imagery** — measuring how much of the gap between published mAP numbers and reproducible ones comes from data choices vs. architecture. First-author manuscript under review at Springer Nature.
+Hey 👋 I'm Faith — a Nigerian-British engineer who got too curious about why ML benchmarks never reproduce, so I started writing one that does. By day I'm running multi-seed ablations on tiny birds in aerial imagery (no, really — paper under review at Springer Nature). By night I'm prototyping an Alpaca trading agent, drafting cover letters, or chasing the next good coffee in a new corner of London.
 
-I'm interested in empirical work where rigour matters more than scale: multi-seed evaluation, honest null results, and the unglamorous infrastructure that makes a benchmark actually repeatable.
+Heading to Vancouver in September for the **Beedie MBA** — bringing the engineering brain into the strategy room. I care about empirical rigour, honest null results, and code that runs on the second machine you try it on.
 
 ---
 
@@ -10,26 +10,29 @@ I'm interested in empirical work where rigour matters more than scale: multi-see
 
 - **TIDE-Aerial** — five-stage ablation pipeline (R0–R4), multi-seed evaluation on WBWF, VisDrone, and AI-TOD-v2. R1 multi-seed champion at **mAP@0.50 = 0.637 ± 0.004**; beat YOLC SOTA on AI-TOD-v2 by ~2×.
 - Daily user of the **Claude API + Claude Code** for research workflow orchestration (~14 months in).
-- Incoming **MBA at Simon Fraser University, Beedie** (Fall 2026) — bridging technical research with strategy.
+- Building an **algorithmic trading agent** on Alpaca paper — bracket orders, watchdog, kill-switch.
 
 ---
 
 ### 🛠 Tech stack
 
 **Languages**
-`Python` · `SQL` · `R` · `Bash` · `LaTeX`
+`Python` · `Java` · `SQL` · `R` · `Bash` · `LaTeX`
 
-**ML / DL**
-`PyTorch` · `Ultralytics YOLO` · `transformers` · `SAHI` · `OpenCV` · `pandas` · `NumPy` · `scikit-learn`
+**ML / Deep Learning**
+`PyTorch` · `Ultralytics YOLO` · `transformers` · `SAHI` · `OpenCV` · `scikit-learn`
 
-**Research tooling**
-`Weights & Biases` · `Hugging Face` · `vast.ai` · `Docker` · `Git`
+**Data & BI**
+`Power BI` · `Excel (advanced)` · `pandas` · `NumPy` · data pipelines · ETL
+
+**Automation & Tooling**
+`Playwright` · `MCP servers` · `Docker` · `Git` · `vast.ai` (remote GPU orchestration)
+
+**Research stack**
+`Weights & Biases` · `Hugging Face` · `Anthropic Claude API` · `Claude Code`
 
 **Statistical methodology**
 Multi-seed ablation design · bootstrap confidence intervals · Wilcoxon paired tests · cross-dataset evaluation
-
-**LLM workflow**
-`Anthropic Claude API` · `Claude Code` · MCP servers
 
 ---
 
