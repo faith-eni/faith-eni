@@ -1,6 +1,6 @@
 # Hi, I'm Faith 👋
 
-Nigerian-British engineer based in London. I build ML systems that actually reproduce, ship side projects on the side, and care about rigour over hype. Heading to Vancouver this Fall for the **Beedie MBA**.
+Nigerian-British engineer based in London. I build ML systems that actually reproduce, ship side projects on the side, and care about rigour over hype. Incoming **SFU Beedie MBA**.
 
 ---
 
