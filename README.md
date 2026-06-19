@@ -1,8 +1,6 @@
 # Hi, I'm Faith 👋
 
-Hey 👋 I'm Faith — a Nigerian-British engineer who got too curious about why ML benchmarks never reproduce, so I started writing one that does. By day I'm running multi-seed ablations on tiny birds in aerial imagery (no, really — paper under review at Springer Nature). By night I'm prototyping an Alpaca trading agent, drafting cover letters, or chasing the next good coffee in a new corner of London.
-
-Heading to Vancouver in September for the **Beedie MBA** — bringing the engineering brain into the strategy room. I care about empirical rigour, honest null results, and code that runs on the second machine you try it on.
+Nigerian-British engineer based in London. I build ML systems that actually reproduce, ship side projects on the side, and care about rigour over hype. Heading to Vancouver this Fall for the **Beedie MBA**.
 
 ---
 
